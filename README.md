@@ -1,3 +1,11 @@
+
+
+Original Theme: Sticko
+Änderungen am Originaltheme:
+
+Sidebar auf 1/3 verkleinert
+Gravatar Bild auf 80px Gravatare angepasst
+
 Sticko - A free Ghost theme :)
 =======
 
