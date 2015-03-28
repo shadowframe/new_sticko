@@ -1,7 +1,7 @@
 <a href="/" title="Go to Home">Home</a>
-<ul class="nav">
+
     {{#foreach navigation}}
-    <li class="nav-{{slug}}{{#if current}} nav-current{{/if}}" role="presentation"><a href="{{url absolute="true"}}">{{label}}</a></li>
+    <a href="{{url absolute="true"}}">{{label}}</a>
     {{/foreach}}
-</ul>
+
 <a href="/impressum" title="Impressum aufrufen">ich bin der test der sich immer ändert, um zu verhindern, dass git grad eine fehlerquelle darstellt.</a>
