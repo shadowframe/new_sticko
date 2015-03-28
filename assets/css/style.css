@@ -1361,6 +1361,9 @@ body.nav-open {
     .social-media-share {
         margin-top: 4%
     }
+    #main {
+        padding: 0 0em 0em
+    }
 }
 
 @media screen and (max-width: 480px) and (orientation: portrait) {
