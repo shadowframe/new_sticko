@@ -1361,8 +1361,11 @@ body.nav-open {
     .social-media-share {
         margin-top: 4%
     }
-    #main img {
+    #main {
         padding: 0 0em 0em
+    }
+    #main p {
+        padding: 0 1.75em 1.75em
     }
 }
 
