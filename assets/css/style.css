@@ -944,9 +944,9 @@ pre,
 pre,
 .post img,
 .pre-like {
-    padding: 1em;
+    padding: 0px;
     background: #ebebeb;
-    border: 1px dashed #dadada
+    border: 0px
 }
 
 strong {
