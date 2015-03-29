@@ -1322,7 +1322,7 @@ body.nav-open {
 
 @media screen and (max-width: 768px) and (orientation: portrait) {
     #main-sidebar {
-        max-height: 600px
+        max-height: 590px
     }
 }
 
@@ -1350,7 +1350,7 @@ body.nav-open {
 
 @media screen and (max-width: 1023px) and (orientation: landscape) {
     #main-sidebar {
-        min-height: 500px
+        min-height: 370px
     }
 }
 
@@ -1369,7 +1369,7 @@ body.nav-open {
 
 @media screen and (max-width: 480px) and (orientation: portrait) {
     #main-sidebar {
-        min-height: 550px
+        min-height: 370px
     }
     #main-footer p {
         font-size: .7em
