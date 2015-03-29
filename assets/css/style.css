@@ -1318,6 +1318,9 @@ body.nav-open {
     .social-media-share {
         margin-top: 4%
     }
+    #main-sidebar {
+        max-height: 420px
+    }
 }
 
 @media screen and (max-width: 768px) and (orientation: portrait) {
