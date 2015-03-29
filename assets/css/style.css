@@ -1322,7 +1322,7 @@ body.nav-open {
 
 @media screen and (max-width: 768px) and (orientation: portrait) {
     #main-sidebar {
-        max-height: 590px
+        max-height: 390px
     }
 }
 
